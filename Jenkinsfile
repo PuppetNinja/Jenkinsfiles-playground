@@ -1,4 +1,4 @@
-simpleBuild {
+node {
  
     env = [
         FOO : 42,
